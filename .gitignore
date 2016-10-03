@@ -3,3 +3,5 @@
 *.db
 *.rds
 *.httr-oauth
+.Rproj.user
+StreamPULSE.Rproj
