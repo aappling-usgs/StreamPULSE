@@ -5,3 +5,4 @@
 *.httr-oauth
 .Rproj.user
 StreamPULSE.Rproj
+local.R
